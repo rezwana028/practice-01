@@ -1,0 +1,355 @@
+.nav-cont{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(247, 238, 227);
+    align-items: center;
+    height: 100px;
+    padding: 0 240px;
+}
+body{
+    font-family: poppins;
+}
+.logo{
+    height: 47px;
+    width: 140px;
+
+}
+nav ul li{
+    list-style: none;
+    color: #535045;
+    font-weight: 600;
+
+}
+nav ul{
+    display: flex;
+    gap: 35px;
+}
+*{
+    margin: 0;
+}
+.icon{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+}
+button{
+    background-color:#ffcb45 ;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+/*Hero style*/
+.hero-conteiner{
+    background-image: url(/img/image\ copy.png);
+    height: 900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0 240px;
+    
+}
+.hero-content{
+    
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+/*how it works*/
+.how-it-works{
+    margin-top: 80px;
+    margin-bottom: 100px;
+
+
+}
+.img-png{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    padding-top: 50px;
+}
+.order{
+    text-align: center;
+}
+
+/*menu section*/
+
+.menu-img{
+    background-color: #f1f1f1;
+    height: 280px;
+    width: 280px;
+    border-radius: 15px 15px 0 0;
+    text-align: center;
+    align-content: center;
+    
+
+    
+
+}
+.menu-content{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    margin-top: 50px;
+   
+}
+.menu{
+    border: #535045 solid 1px;
+    border-radius: 15px 15px 0 0;
+    margin-bottom: 80px;
+    box-shadow: #b8b5aa 10px 10px;
+}
+.menu-icon{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+
+
+}
+
+
+
+/*section-left*/
+
+.left-img{
+    position: relative;
+    margin-top: -35px;
+}
+.left-cont{
+    margin-left: 80px;
+}
+
+/*section-right*/
+
+.review-img-cont{
+    display: flex;
+    gap: 10px;
+}
+.more-menu{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    overflow: hidden;
+}
+.review-section{
+    border: #535045 solid;
+    height: 160px;
+    width: 400px;
+    background-color: #f1f1f1;
+    padding: 25px;
+    border-radius: 15px;
+    
+    
+}
+.more-menu-right-bottom{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 120px;
+    
+    
+}
+
+/*footer*/
+
+.footer-content{
+    background-image: url(/img/bg\ img\ 2.png);
+    margin-top: 580px;
+    margin-left: -550px;
+    margin-bottom: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
