@@ -42,7 +42,7 @@ button{
 }
 /*Hero style*/
 .hero-conteiner{
-    background-image: url(/img/image\ copy.png);
+    background-image: url("../img/bg.png");
     height: 900px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -152,7 +152,7 @@ button{
 /*footer*/
 
 .footer-content{
-    background-image: url(/img/bg\ img\ 2.png);
+    background-image: url("../img/footer.png");
     margin-top: 580px;
     margin-left: -550px;
     margin-bottom: 80px;
